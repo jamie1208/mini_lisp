@@ -1,9 +1,4 @@
-# mini_lisp
-This is my final project in compiler class.
-========================================
-Mini Lisp Interpreter
-========================================
-
+# Mini Lisp Interpreter This is my final project in compiler class.
 Author: Jamie Tsai
 Student ID: xxxxxxxx
 Course: Compiler Design
